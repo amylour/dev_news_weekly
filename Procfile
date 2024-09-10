@@ -1,0 +1,1 @@
+web: gunicorn dev_news_weekly.wsgi
