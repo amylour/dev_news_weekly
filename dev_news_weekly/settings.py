@@ -78,7 +78,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'dev_news_weekly.wsgi.application'
 
-test
+
 
 
 # Database
